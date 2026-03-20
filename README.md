@@ -19,3 +19,19 @@ Focus on:
 - Building models first
 - Understanding system behavior
 - Identifying real-world modeling challenges
+
+## Implemented
+- Wolf-Sheep Predator-Prey Model
+- Agent-based simulation using Mesa 3+
+- Data collection using DataCollector
+- Visualization of population dynamics using matplotlib
+
+## Observations
+- System shows instability depending on parameters
+- Sheep overpopulation leads to collapse
+- Predator-prey balance requires careful tuning
+
+## Next Steps
+- Achieve stable oscillation
+- Add grass model (resource layer)
+- Improve agent behavior

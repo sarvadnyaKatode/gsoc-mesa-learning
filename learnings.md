@@ -7,3 +7,11 @@
 ## Observations
 - Behavior is step-based (no multi-step actions)
 - No built-in memory system for agents
+
+## Day 2
+
+- Learned Mesa agent lifecycle
+- Fixed bug with agent removal (grid vs agentset)
+- Implemented DataCollector properly
+- Understood importance of stochastic behavior
+- Observed system instability and collapse dynamics

@@ -1,0 +1,12 @@
+beniget==0.4.2.post1
+gast==0.6.0
+Mesa==3.5.1
+numpy==2.4.3
+pandas==3.0.1
+ply==3.11
+python-dateutil==2.9.0.post0
+pythran==0.18.1
+scipy==1.17.1
+setuptools==82.0.1
+six==1.17.0
+tqdm==4.67.3
